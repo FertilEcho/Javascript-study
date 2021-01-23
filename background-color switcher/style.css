@@ -19,9 +19,6 @@ span {
     border-radius: 50%;
 }
 
-#grey{
-    background: grey;
-}
 
 #red{
     background: red;
@@ -31,4 +28,20 @@ span {
 }
 #yellow{
     background: yellow;
+}
+
+#navy{
+      background: navy;
+}
+
+#purple{
+    background: purple;
+}
+
+#orange{
+    background: orange;
+}
+
+#green{
+    background: green;
 }

@@ -11,7 +11,6 @@ window.onload = function() {
     let Interval;
 
 
-    ////버튼을 눌렀을 때////
 start.onclick = function (){
     clearInterval(Interval);
     Interval = setInterval(starttimer, 10);   
@@ -34,8 +33,6 @@ reset.onclick = function(){
 
 
 
-
-////타이머 숫자////
 function starttimer(){
 
     tens++;
