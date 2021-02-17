@@ -1,0 +1,27 @@
+html {
+    margin: 0;
+}
+
+span {
+    display: block;
+}
+.canvas {
+    margin:  100px auto 100px;
+    width: 80%;
+    text-align: center;
+}
+
+.button {
+    width: 150px;
+    height: 200px;
+    border: solid black 5px;
+    display: inline-block;
+    cursor: pointer;
+    background-color: grey;
+    
+}
+
+#red
+
+
+
